@@ -1,0 +1,11 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "private": true,
+  "license": "Proprietary and Confidential",
+  "dependencies": {
+    "coffeelint": "1.16.1"
+  },
+  "devDependencies": {
+  }
+}
