@@ -4,7 +4,7 @@
   "private": true,
   "license": "Proprietary and Confidential",
   "dependencies": {
-    "coffeelint": "1.16.1"
+    "coffeelint": "2.1.0"
   },
   "devDependencies": {
   }
